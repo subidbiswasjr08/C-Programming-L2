@@ -1,0 +1,49 @@
+/*********
+C BASIC CODES
+Topics Covered:
+
+C Programming Functions
+C User-defined Functions
+C Programming Pointers
+C Pointers & Arrays
+C Programming String
+C String Functions
+C switch...case
+C Programming goto
+
+*********/
+
+1.	 C Program to Print a String
+2.	 C Program to Print a String declaring Array Size
+3.	 C Program to Print a String using *
+4.	 C Program to Print a Line of Text (fgets)
+5.	 C Program to Print a Line of Text (gets,puts)
+6.	 C Program to understand Assignment Operator 1
+7.	 C Program to understand Assignment Operator 2
+8.	 C Program to understand Assignment Operator 3
+9.	 C Program to understand Arithmetic Operators
+10.	 C Program to understand Pre/Post-Increment/Decrement
+11.	 C Program to understand Assigning Arithmetic Operators
+12.	 C Program Arithmetic Operator Problem
+13.	 C Program Problem on Pre/Post-Increment/Decrement
+14.	 Understanding C Relational Operator
+15.	 Understanding C Logical Operator
+16.	 C Program to Understand Switch-case
+17.	 C Program to make Calculator using Switch-case
+18.	 C Program to Understand Function
+19.	 C Program to Call a User Defined Function
+20.	 C Program Problem on Calling a Function
+21.	 C Program Function Prototype, Definition, Return Type
+22.	 C Program using goto Function
+23.	 C Program to understand goto Function
+24.	 C Program problem on goto Function
+25.	 C Program to print String length
+26.	 C Program to print String copy
+27.	 C Program to print String concatenation
+28.	 C Program to print String compare
+29.	 C Program to print String Uppercase & Lowercase
+30.	 C Program to print String Upper & Lower case(input by user)
+31.	 C Program to Show Address of a Variable
+32.	 C Program to Understand Pointer
+33.	 C Program to Show Address of Variable Using Pointer
+
