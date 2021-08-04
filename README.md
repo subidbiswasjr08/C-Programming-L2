@@ -1,5 +1,6 @@
 # C_Coding-L2
-C codes for very basic beginner topics required for learning C Programming (Thirty codes covering four topics)
+C codes for very basic beginner topics required for learning C Programming
+- Thirty-three codes covering Eight topics
 ---------------------
 C BASIC CODES
 Topics Covered:
@@ -12,4 +13,4 @@ Topics Covered:
 - C String Functions
 - C switch...case
 - C Programming goto
-------------------------
+-----------------------
